@@ -1,2 +1,2 @@
 # Lumerical_inverse_tapers
-Diffrente inverse taper designs using Lumerical python API
+Different inverse taper designs using Ansys Lumerical python API
